@@ -1,0 +1,5 @@
+.env
+node_modules
+kp.json
+pnpm-lock.yaml
+db/*
